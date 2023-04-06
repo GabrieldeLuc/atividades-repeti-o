@@ -1,0 +1,15 @@
+C:\Users\56262631879\Desktop\Atividade 1 repetição\bin\Debug\net7.0\Atividade 1 repetição.exe
+C:\Users\56262631879\Desktop\Atividade 1 repetição\bin\Debug\net7.0\Atividade 1 repetição.deps.json
+C:\Users\56262631879\Desktop\Atividade 1 repetição\bin\Debug\net7.0\Atividade 1 repetição.runtimeconfig.json
+C:\Users\56262631879\Desktop\Atividade 1 repetição\bin\Debug\net7.0\Atividade 1 repetição.dll
+C:\Users\56262631879\Desktop\Atividade 1 repetição\bin\Debug\net7.0\Atividade 1 repetição.pdb
+C:\Users\56262631879\Desktop\Atividade 1 repetição\obj\Debug\net7.0\Atividade 1 repetição.csproj.AssemblyReference.cache
+C:\Users\56262631879\Desktop\Atividade 1 repetição\obj\Debug\net7.0\Atividade 1 repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56262631879\Desktop\Atividade 1 repetição\obj\Debug\net7.0\Atividade 1 repetição.AssemblyInfoInputs.cache
+C:\Users\56262631879\Desktop\Atividade 1 repetição\obj\Debug\net7.0\Atividade 1 repetição.AssemblyInfo.cs
+C:\Users\56262631879\Desktop\Atividade 1 repetição\obj\Debug\net7.0\Atividade 1 repetição.csproj.CoreCompileInputs.cache
+C:\Users\56262631879\Desktop\Atividade 1 repetição\obj\Debug\net7.0\Atividade 1 repetição.dll
+C:\Users\56262631879\Desktop\Atividade 1 repetição\obj\Debug\net7.0\refint\Atividade 1 repetição.dll
+C:\Users\56262631879\Desktop\Atividade 1 repetição\obj\Debug\net7.0\Atividade 1 repetição.pdb
+C:\Users\56262631879\Desktop\Atividade 1 repetição\obj\Debug\net7.0\Atividade 1 repetição.genruntimeconfig.cache
+C:\Users\56262631879\Desktop\Atividade 1 repetição\obj\Debug\net7.0\ref\Atividade 1 repetição.dll
